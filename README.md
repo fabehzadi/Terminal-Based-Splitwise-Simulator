@@ -42,11 +42,6 @@ The project follows the MVC (Model-View-Controller) architectural pattern to sep
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/Terminal-Based-Splitwise-Simulator.git
-   ```
-
 2. Open the project in your preferred Java IDE.
 3. Build and run the main application class.
 
