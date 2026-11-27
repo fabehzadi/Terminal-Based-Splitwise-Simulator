@@ -49,5 +49,5 @@ The project follows the MVC (Model-View-Controller) architectural pattern to sep
 
 This project was developed to practice object-oriented programming, software architecture, command processing, and group expense management using Java.
 
-## 🎯 Course
+## Course
 Advanced Programming - Spring 2025
